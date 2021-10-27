@@ -1,6 +1,6 @@
 # hw_02
 
-Here is the [homework instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
+Here is the [homework instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02).
 
 ## Graph One
 
